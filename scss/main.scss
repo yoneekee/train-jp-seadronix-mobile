@@ -146,7 +146,11 @@
 
 .banner {
   background: rgb(4, 63, 189);
-  background: linear-gradient(90deg, rgba(4, 63, 189, 1) 0%, rgba(0, 31, 97, 1) 100%);
+  background: linear-gradient(
+    90deg,
+    rgba(4, 63, 189, 1) 0%,
+    rgba(0, 31, 97, 1) 100%
+  );
   color: #fff;
   text-align: center;
 }
